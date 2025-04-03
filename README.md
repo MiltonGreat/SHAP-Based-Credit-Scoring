@@ -35,7 +35,7 @@ The target variable is Credit Risk (Good/Bad Credit), where 1 represents bad cre
 - PD Model (AUC-PR 0.78)
 - LGD Model (R-squared -0.08)
 - EAD Model (R-squared 0.59)
-- 
+
 ### Conclusion
 
 This project demonstrated that transparent, explainable credit risk modeling is achievable using SHAP values, with external data sources (EXT_SOURCE) being the strongest predictors.
